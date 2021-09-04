@@ -1,0 +1,20 @@
+ Initialize Terraform.
+      $terraform init
+      
+ Plan for Terraform.
+      $terrraform plan -out=tfplan
+      
+ Create an instance.
+      $terraform apply tfpan
+      
+ Check the state of the instance.
+      $terraform show
+     
+ Connecting to the instnace
+      $gcloud sql connect name --user=name
+      
+ Deleting the instance
+      $terraform destroy
+  
+  Checkinng the status again after deletion 
+        $terraform show
