@@ -21,3 +21,6 @@
 
 To validate
       $terraform validate
+
+Connecting to the instance
+      $ gcloud sql connect name --user=name --quiet
