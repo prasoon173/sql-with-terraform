@@ -18,3 +18,6 @@
   
   Checkinng the status again after deletion 
         $terraform show
+
+To validate
+      $terraform validate
