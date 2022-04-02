@@ -24,3 +24,7 @@ To validate
 
 Connecting to the instance
       $ gcloud sql connect name --user=name --quiet
+      
+For formatting the file 
+      $fmt
+      
